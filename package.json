@@ -1,7 +1,7 @@
 {
   "name": "react-calculator",
-  "homepage": "https://github.com/Argus36/react-calculator.git",
   "version": "0.1.0",
+  "homepage": "https://Argus36.github.io/react-calculator",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
